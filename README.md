@@ -1,4 +1,4 @@
-# 録音から議事録（meeting-minutes-to-docs）
+# 録音から議事録（meeting-minutes-docs）
 
 会議・講座の録音ファイルを AI で文字起こしし、議事録の形にまとめて、新しい Google ドキュメントに保存する Python プログラムです。
 
